@@ -14,7 +14,7 @@
 
 - How to reach me **pyh245@nyu.edu**
 
-- Fun fact **I enjoy writing Chinese and English calligraphy. Since 2019, I started my own calligraphy business that customizes calligraphy writing for clients.**
+- Fun fact **Since 2019, I started my own calligraphy business that customizes calligraphy writing for clients.**
 </br>
 </br>
 <h3 align="center">Connect with me:</h3>
