@@ -1,15 +1,18 @@
 ![772713F4-6FE7-4EAE-AD84-0C60FAAFE46B](https://github.com/becky1030/becky1030/assets/112721395/dd3d464c-2346-44a8-a7af-02a7a213fed0)
-<img align="left" alt="me" width="100" src="https://github.com/becky1030/becky1030/assets/112721395/c8e9a643-75d8-49e8-a6b9-475c579113ac"><h1 align="left">Hi 🌸🌼, I'm Becky Hsu</h1>
-<img align="right" alt="Coding" width="400" src="https://github.com/becky1030/becky1030/assets/112721395/1471a054-9cab-4442-9424-4906c9d6684b">
 </br>
-- 🔭 I’m currently working on **a New York City website and mobile App**
+</br>
 
-- 🌱 I’m currently learning **React Native, GIS, data wrangling**
+<img align="left" alt="me" width="100" src="https://github.com/becky1030/becky1030/assets/112721395/c8e9a643-75d8-49e8-a6b9-475c579113ac"><h1 align="left">Hi 🌸🌼, I'm Becky Hsu</h1>
+<img align="right" alt="Coding" width="300" src="https://github.com/becky1030/becky1030/assets/112721395/1471a054-9cab-4442-9424-4906c9d6684b">
+</br>
+- I’m currently working on **a New York City website and mobile App**
 
-- 📫 How to reach me **pyh245@nyu.edu**
+- I’m currently learning **React Native, GIS, data wrangling**
 
-- ⚡ Fun fact **I enjoy writing Chinese and English calligraphy. Since 2019, I started my own calligraphy business that customizes calligraphy writing for clients..**
+- How to reach me **pyh245@nyu.edu**
 
+- Fun fact **I enjoy writing Chinese and English calligraphy. Since 2019, I started my own calligraphy business that customizes calligraphy writing for clients..**
+</br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pei-yin (becky) hsu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pei-yin (becky) hsu" height="30" width="40" /></a>
