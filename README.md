@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="300" src="https://github.com/becky1030/becky1030/assets/112721395/1471a054-9cab-4442-9424-4906c9d6684b">
 </br>
 
-- I’m currently working on **a location based AR Fitness website and mobile App** 
+- I’m currently working on **a location based AR fitness website and mobile App** 
 
 - I’m currently learning **React Native, GIS, data wrangling**
 
